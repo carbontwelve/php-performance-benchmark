@@ -37,6 +37,9 @@ C:\php bench.php
 
 ```
 
+I have used this benchmark script to test a few platforms, by results can be found in [this gist here](https://gist.github.com/carbontwelve/94cbb6615070120a8cf236a5e9d7540a).
+
+
 If you have any additional PHP system performance based tests that you would like to add to the mix, feel free to fork and send a PR.
 
 ## Todo

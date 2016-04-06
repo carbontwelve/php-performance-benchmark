@@ -1,5 +1,7 @@
 <?php
 
+date_default_timezone_set('UTC');
+
 /**
  * Super Simple PHP Benchmark Performance Script
  * Based upon the PHP benchmark performance script by Alessandro Torrisi available http://www.php-benchmark-script.com/
